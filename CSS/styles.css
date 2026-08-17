@@ -25,3 +25,25 @@ body{
     font-size: 1.6rem;
     font-family: "AR One Sans", sans-serif;
 }
+
+section{
+    min-height: 100vh;
+    padding: 10rem 10% 2rem;
+}
+
+/* Funcionalidades */
+
+.heading{
+    font-size: 4.5rem;
+    text-align: center;
+}
+
+.heading-description{
+    font-size: 1.8rem;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+span{
+    color: var(--main-color);
+}
